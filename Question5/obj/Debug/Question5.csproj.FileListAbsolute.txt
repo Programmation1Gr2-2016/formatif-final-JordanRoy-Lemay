@@ -1,0 +1,7 @@
+C:\Users\Jordan\Documents\Google Drive\Cegep\Technique de l'informatique\Session 1\Prog 1\premierjeu-JordanRoy-Lemay\ExamenFormatif3\Question5\bin\Debug\Question5.exe.config
+C:\Users\Jordan\Documents\Google Drive\Cegep\Technique de l'informatique\Session 1\Prog 1\formatif-final-JordanRoy-Lemay\Question5\bin\Debug\Question5.exe.config
+C:\Users\Jordan\Documents\Google Drive\Cegep\Technique de l'informatique\Session 1\Prog 1\formatif-final-JordanRoy-Lemay\Question5\bin\Debug\Question5.exe
+C:\Users\Jordan\Documents\Google Drive\Cegep\Technique de l'informatique\Session 1\Prog 1\formatif-final-JordanRoy-Lemay\Question5\bin\Debug\Question5.pdb
+C:\Users\Jordan\Documents\Google Drive\Cegep\Technique de l'informatique\Session 1\Prog 1\formatif-final-JordanRoy-Lemay\Question5\obj\Debug\Question5.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\Google Drive\Cegep\Technique de l'informatique\Session 1\Prog 1\formatif-final-JordanRoy-Lemay\Question5\obj\Debug\Question5.exe
+C:\Users\Jordan\Documents\Google Drive\Cegep\Technique de l'informatique\Session 1\Prog 1\formatif-final-JordanRoy-Lemay\Question5\obj\Debug\Question5.pdb
